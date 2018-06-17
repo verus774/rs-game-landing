@@ -1,0 +1,23 @@
+{
+  "name": "rs-game-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src --browser=chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verus774/rs-game-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verus774/rs-game-landing/issues"
+  },
+  "homepage": "https://github.com/verus774/rs-game-landing#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
